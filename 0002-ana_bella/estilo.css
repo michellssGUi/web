@@ -21,6 +21,10 @@ body{
 	text-align: center;
 }
 
+p{
+	text-align: justify;
+}
+
 a {
 	color: #4b566a;
 	text-decoration: none;
